@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.bg{
+    background-color: #A594F9;
+    color: white;
+}
+#Services{
+    background-color:#F5EFFF;
+    padding-top: 20px;
+    padding-bottom:20px;
+    margin-bottom: 20px;
+}
+.send{
+    background-color: #A594F9;
+}
+#Map{
+    background-color:#F5EFFF;
+    padding-top: 20px;
+    padding-bottom:20px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #A594F9;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
